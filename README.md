@@ -38,7 +38,3 @@ pip install -r requirements.txt
 ```sh
 python i18n_merger.py merge-yaml --input-dir src/yaml --output dst/backend.json
 ```
-
-## Лицензия
-
-MIT
